@@ -1,0 +1,14 @@
+1,soleil,chaud,haute,faux,NePasJouer
+2,soleil,chaud,haute,vrai,NePasJouer
+3,couvert,chaud,haute,faux,Jouer
+4,pluie,bon,haute,faux,Jouer
+5,pluie,frais,normale,faux,Jouer
+6,pluie,frais,normale,vrai,NePasJouer
+7,couvert,frais,normale,vrai,Jouer
+8,soleil,bon,haute,faux,NePasJouer
+9,soleil,frais,normale,faux,Jouer
+10,pluie,bon,normale,faux,Jouer
+11,solei,bon,normale,vrai,Jouer
+12,couvert,bon,haute,vrai,Jouer
+13,couvert,chaud,normale,faux,Jouer
+14,pluie,bon,haute,vrai,NePasJouer
